@@ -1,3 +1,6 @@
+# Overview
+Sample Dapp to solve notary problem between buyer and seller through ethereum smart contract using ropsten testnet and truffle.
+
 # Approach Taken 
 Approach for this involves a Dapp that interacts with smart contract through infura deployed on ropsten testnet. Figure 1 diagram shows the overview of the various components involved.
 
